@@ -1,7 +1,7 @@
 ## NDK
 
-# jni1
+#### jnitest
 - basic NDK example
 
-#jni2
+#### jnitest1
 -
